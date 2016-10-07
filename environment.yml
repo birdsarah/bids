@@ -1,0 +1,10 @@
+name: bids
+dependencies:
+   - flask
+   - Werkzeug
+   - Jinja2
+   - itsdangerous
+   - markupsafe
+   - bokeh 
+   - jupyter
+   - pandas
