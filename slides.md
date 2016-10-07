@@ -421,11 +421,19 @@ At the heart of Bokeh is the `ColumnDataSource`
 
 --
 
-# Magic
-
-[Sharing objects](http://localhost:8888/notebooks/Tools_Selection_Panning.ipynb)
+# [Magic](http://localhost:8888/notebooks/Tools_Selection_Panning.ipynb)
 
 --
+
+<img class="stretch" data-src="images/bokeh_basic.svg">
+
+--
+
+## [Building up a custom visualization](http://localhost:8888/notebooks/Gapminder.ipynb)
+
+--
+
+## Server
 
 --
 
@@ -441,13 +449,8 @@ At the heart of Bokeh is the `ColumnDataSource`
 * https://bokeh.github.io/blog/2016/10/3/resources-overview/
 * YouTube videos - remember we've been moving quickly
 
---
-
-<img class="stretch" data-src="images/bokeh_basic.svg">
 
 --
-
-## Server
 
 ---
 
